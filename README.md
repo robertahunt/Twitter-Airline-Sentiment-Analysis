@@ -5,9 +5,9 @@ Transfer learning for sentiment analysis: Comparison of recent methods
 https://robertahunt.github.io/Twitter-Airline-Sentiment-Analysis/
 
 ### Basic info
-14848 Tweets - 10000 train, 2424 validation, 2424 test?
-321527 total tokens
-20118 unique tokens
+* 14848 Tweets - 10000 train, 2000 validation, 2640 test
+* 321527 total tokens
+* 20118 unique tokens
 
 ### Steps
 * Based on that we can find out how much space the word embeddings would take up and how best to analyze
@@ -24,7 +24,7 @@ Find out what
 * Twitter
 
 ### Machine learning algos to test
-* UCLFit
+* ULMFit
 * Sentiment neuron from Open AI
 * Adversarial - did well on imdb
 * InferSent - Facebook
