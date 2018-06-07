@@ -10,10 +10,9 @@ https://robertahunt.github.io/Twitter-Airline-Sentiment-Analysis/
 * 20118 unique tokens
 
 ### Steps
-* Based on that we can find out how much space the word embeddings would take up and how best to analyze
+* OpenAI sentiment
+* FastAI ULMFit
 
-Predicting sentiment - positive negative and neutral.
-Find out what 
 
 ### Embeddings to try?
 * FastText - very quick to train, and did well on imdb?
@@ -26,9 +25,8 @@ Find out what
 ### Machine learning algos to test
 * ULMFit
 * Sentiment neuron from Open AI
-* Adversarial - did well on imdb
 * InferSent - Facebook
-
+* Adversarial - did well on imdb
 * Simple self-made LSTM from word embeddings
 * Naive Bayes Support Vector Machines (supposed to be good for this)
 * Backwards LSTM?
