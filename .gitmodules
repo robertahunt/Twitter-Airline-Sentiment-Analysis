@@ -1,0 +1,6 @@
+[submodule "submodules/openai"]
+	path = submodules/openai
+	url = https://github.com/openai/generating-reviews-discovering-sentiment.git
+[submodule "submodules/ulmfit"]
+	path = submodules/ulmfit
+	url = https://github.com/fastai/fastai.git
