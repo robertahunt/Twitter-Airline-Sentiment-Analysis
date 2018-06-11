@@ -1,3 +1,3 @@
-nTrain = 10000
-nVal = 2000
-nTest = 2640
+nTrain = 5000
+nVal = 1000
+nTest = 1089
